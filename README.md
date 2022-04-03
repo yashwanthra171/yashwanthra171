@@ -1,4 +1,4 @@
-- Hello 👋 I’m Yashwanthra
+- Hello there 👋 I’m Yashwanthra
 - 👀 I’m interested in Machine Learning, Deep learning & Computer vision
 - 🌱 I'm currently working on DL and CV
 - 📫 How to reach me at yashwanthra171@gmail.com
